@@ -38,7 +38,7 @@ Double space or double enter
 2. that
 
 ### Form 
-[ ] like this 
+[ ] like this  
 [x] for example
 
 ### Code 
@@ -69,7 +69,7 @@ Combinaison of those two:
 ### Side note
 In the text [^1] you can easily place a side note [^2]
 [^1]: Here is the note.
- [^2]: **Note** can also be *styled*.
+ [^2]: **Note** can also be *styled*.  
 Or be more than one line.
 
 
